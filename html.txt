@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <em>Git is great</em>
+=======
+<em>Git is great</em>
+>>>>>>> cases
