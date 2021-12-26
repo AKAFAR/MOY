@@ -2,6 +2,5 @@
 *.log
 /target/
 /bin/
-
-!arrows.txt
+arrows.txt/
 
