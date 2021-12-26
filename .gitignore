@@ -2,8 +2,5 @@
 *.log
 /target/
 /bin/
-
-
-
-
+.gitignore/
 
