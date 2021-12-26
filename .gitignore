@@ -2,5 +2,6 @@
 *.log
 /target/
 /bin/
-.gitignore/
+
+!arrows.txt
 
